@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>the Bruise</title>
+    <description>When we fall, we get back up. We fall often.</description>
+    <link>thebruise.net/</link>
+    <atom:link href="thebruise.net/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The First One</title>
+        <description>&lt;p&gt;There isn’t much to see here yet. This is just a post to make sure everything is working correctly.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List are good&lt;/li&gt;
+  &lt;li&gt;We like lists&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You’re the best&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No, seriously, thank you&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Round and Round and Round We Spin &lt;br /&gt;
+ With Feet of Lead and Wings of Tin&lt;br /&gt;
+ -Vonnegut&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 30 Sep 2015 05:44:00 -0500</pubDate>
+        <link>thebruise.net/demo/into/2015/09/30/the-first-one/</link>
+        <guid isPermaLink="true">thebruise.net/demo/into/2015/09/30/the-first-one/</guid>
+      </item>
+    
+  </channel>
+</rss>
