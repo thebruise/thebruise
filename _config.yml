@@ -4,7 +4,7 @@ email:       thebruisedotnet@gmail.com
 author:      Jonathan Souder
 description: "When we fall, we get back up. We fall often."
 baseurl:     ""
-url:         "thebruise.net"
+url:         "http://github.com/thebruise/thebruise.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
